@@ -8,7 +8,7 @@
 
 ### Performance of stocks in 2017
 
-#### In the year 2017, All the stocks except TERP have had a positive return which therefore implies a good year for the stock market, as seen in the screen shot. [ALL_Stocks_2017] (Resources/All_Stock_2017.png)
+#### In the year 2017, All the stocks except TERP have had a positive return which therefore implies a good year for the stock market, as seen in the screen shot. ![ALL_Stocks_2017] (Resources/All_Stock_2017.png)
 
 ### Performance of Stocks in 2018
 

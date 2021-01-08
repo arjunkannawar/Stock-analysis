@@ -16,7 +16,7 @@
 
 ### Performance of the Original code vs the Refactored code
 
-#### The refactored code has performed better than the signal code. The result for the year 2017 is that the refactored code [VBA_Challenge_2017] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) is 0.03 seconds faster than the original code [VBA_orignalscript_2017] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_orignal%20Script_2017.png) while the refactored code for 2018 [VBA_Challenge_2018] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_challenge_2018.png) has performed approximately 0.2 seconds faster than the original code [VBA_orignalscript_20178] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_orignal_2018.png).
+#### The refactored code has performed better than the orignal code. The result for the year 2017 is that the refactored code [VBA_Challenge_2017] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) is 0.03 seconds faster than the original code [VBA_orignalscript_2017] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_orignal%20Script_2017.png) while the refactored code for 2018 [VBA_Challenge_2018] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_challenge_2018.png) has performed approximately 0.2 seconds faster than the original code [VBA_orignalscript_20178] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/VBA_orignal_2018.png).
 
 ## Summary
 

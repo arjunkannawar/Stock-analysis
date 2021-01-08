@@ -12,7 +12,7 @@
 
 ### Performance of Stocks in 2018
 
-#### In 2018, Only two stocks have had a positive return, ENPH and RUN. They have also been amongst the top three traded stocks in the year, as seen in the attached link. [ALL_stocks_2018] (Resources/All_Stock_2018.png)
+#### In 2018, Only two stocks have had a positive return, ENPH and RUN. They have also been amongst the top three traded stocks in the year, as seen in the attached link. [ALL_stocks_2018] (https://github.com/arjunkannawar/Stock-analysis/blob/main/Resources/All_Stock_2018.png)
 
 ### Performance of the Original code vs the Refactored code
 

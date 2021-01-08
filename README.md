@@ -6,11 +6,11 @@
 
 ## Result
 
-### Performance report of stocks in 2017
+### Performance of stocks in 2017
 
 #### In the year 2017, All the stocks except TERP have had a positive return which therefore implies a good year for the stock market, as seen in the screen shot. [ALL_Stocks_2017] (Resources/All_Stock_2017.png)
 
-### Performance reports of Stocks in 2018
+### Performance of Stocks in 2018
 
 #### In 2018, Only two stocks have had a positive return, ENPH and RUN. They have also been amongst the top three traded stocks in the year, as seen in the attached link. [ALL_stocks_2018] (Resources/All_Stock_2018.png)
 

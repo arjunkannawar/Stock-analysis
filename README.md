@@ -22,7 +22,7 @@
 
 ### What are the advantages or disadvantages of refactoring code?
 
-#### The amin goal of code refactoring is to make it easy to enhance and maintain in the future. Refactoring code is a way to make the code efficient - interms of performance, improving the logic or optimizing the steps taken to complete the task at hand. 
+#### The main goal of code refactoring is to make it easy to enhance and maintain in the future. Refactoring code is a way to make the code efficient - interms of performance, improving the logic or optimizing the steps taken to complete the task at hand. 
 
 ### How do these pros and cons apply to refactoring the original VBA Script?
 
